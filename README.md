@@ -4,7 +4,7 @@
 
 ```linux
 #下载文件
-wget https://github.com/darren2025/mysql5.1-5.6/blob/master/install_mysql.sh
+wget https://raw.githubusercontent.com/darren2025/mysql5.1-5.6/master/install_mysql.sh
 #给予权限
 chmod +x install_mysql.sh
 #执行:
